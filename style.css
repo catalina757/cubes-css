@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    position:relative;
+    font-size: 0.625rem;
+}
+
+body {
+    background:#D25B70;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+dl {
+    width:10rem;
+    height:10rem;
+    background:#F7F3DA;
+
+}
+
+dt {
+    width:6rem;
+    height:6rem;
+    background:#6CB3A9;
+    top:-7.2rem;
+    left:-3.6rem;
+    transform:rotate(-143deg);
+}
+
+dd {
+    width:8rem;
+    height:8rem;
+    background:#F6DF96;
+    top:-15.6rem;
+    right:-5.2rem;
+    transform:rotate(37deg);
+}
